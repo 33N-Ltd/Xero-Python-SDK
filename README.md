@@ -1,3 +1,5 @@
+# Not currently in use
+
 # Python SDK generation guide
 
 https://simply-how.com/design-and-generate-api-code-from-openapi#section-2
